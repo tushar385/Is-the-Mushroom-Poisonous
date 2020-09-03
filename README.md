@@ -1,5 +1,9 @@
 # Is-the-Mushroom-Poisonous
 
+## About Dataset
+The dataset includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family. Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended.
+
+## Steps Performed
 1. Load the data.  
 2. Separate the target, y and features, X from the dataset.  
 3. Recode the target y, so that poisonous mushrooms are represented as 1 and edible mushrooms as 0.  
